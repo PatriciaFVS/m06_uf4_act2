@@ -1,0 +1,21 @@
+.btnClick {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+}
+
+.btnReiniciar {
+    background-color: #f44336; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
+.comptador{
+    border: 3px;
+    padding: 20px;
+    background-color:lightcoral;
+}
